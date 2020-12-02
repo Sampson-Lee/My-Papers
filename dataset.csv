@@ -1,0 +1,8 @@
+名称,条件,标签,人数,数量,来源
+RAF-AU Database,Web,AU EM-ML,,4603,Deng Weihong
+RAF-ML,Web,EM-ML,,,http://www.whdeng.cn/RAF/model2.html
+RAF,Web,EM,,,http://www.whdeng.cn/RAF/model1.html
+DFEW,Movie,EM-ML,,"16,372",https://dfew-dataset.github.io/
+ABAW,,,,,https://ibug.doc.ic.ac.uk/home
+EmotioNet,,,,,http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/index.html
+EmotiW,,,,,https://sites.google.com/view/emotiw2018/home
